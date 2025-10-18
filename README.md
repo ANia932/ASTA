@@ -22,4 +22,4 @@ Aplikacja webowa do zarządzania zamówieniami produkcyjnymi dla firmy przemysł
 
 ### Propoowany wygląd aplikacji
 
-![](/grapfic/login.png)
+![Ekran logowania](graphic/login.png)
