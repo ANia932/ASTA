@@ -20,6 +20,6 @@ Aplikacja webowa do zarządzania zamówieniami produkcyjnymi dla firmy przemysł
 - **Visual Studio Code** – główne środowisko programistyczne.  
 - **Figma** – stworzenie prototypu interfejsu użytkownika przed implementacją. 
 
-### Propoowany wygląd aplikacji
+### Strona logowania
 
 ![Ekran logowania](graphic/login.png)
